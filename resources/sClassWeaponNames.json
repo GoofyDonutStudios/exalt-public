@@ -1,26 +1,26 @@
 {
     "WEAPON_1": [
-        "Laser Sword",
-        "Excalibur",
-        "Kris",
-        "Breadstick",
-        "Dual Daggers"
+        "Lightsaber",
+        "Long Lightsaber",
+        "Spinny Lightsaber",
+        "Double Lightsaber",
+        "Dual Lightsabers"
     ],
 
     "WEAPON_2": [
         "Aegis",
         "Holo-Shield",
-        "1970s Vinyl",
+        "Deflector Shield",
         "Citadel",
         "Spiralfan"
     ],
 
     "WEAPON_3": [
-        "Cannon",
-        "Mortar",
-        "Railgun",
-        "Warp Gun",
-        "RPG",
-        "Decimator"
+        "Ion Cannon",
+        "Death Star",
+        "Death Star II",
+        "Starkiller Base",
+        "Imperial Stardestroyer",
+        "The Duchess"
     ]
 }
